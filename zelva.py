@@ -1,4 +1,4 @@
-from turtle import forward, exitonclick, left, right
+from turtle import forward, exitonclick, left, right, backward, degrees
 
 left(45)
 forward(54.447)
